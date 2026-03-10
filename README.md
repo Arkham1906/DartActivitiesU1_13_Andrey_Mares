@@ -276,8 +276,3 @@ Proyecto integrador que combina **Cola** y **Pila** en un sistema de soporte té
 
 ---
 
-
-<div align="center">
-  <sub>Made with ❤️ and lots of <code>print()</code> statements</sub>
-</div>
-
